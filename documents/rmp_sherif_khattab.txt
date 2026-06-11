@@ -1,0 +1,210 @@
+Professor: Sherif Khattab
+Department: Computer Science
+University: University of Pittsburgh
+Source: Rate My Professors
+URL: https://www.ratemyprofessors.com/professor/2313893
+Overall Rating: 3.6/5 | Would Take Again: 68% | Difficulty: 3.4/5 | Total Ratings: 113
+
+---
+
+Quality: 2.0 | Difficulty: 5.0 | Course: CS1501 | Date: May 5th, 2026
+The professor just read off his slides the entire class. Assignments and labs were all created using AI. He does not seem to know how difficult he makes it. He does provide a lot of extra credit which is super nice, probably the only reason I passed. If you want to take DSA2, do not take him.
+Tags: Extra credit, Lots of homework, Lecture heavy
+
+---
+
+Quality: 2.0 | Difficulty: 4.0 | Course: CS1501 | Date: May 4th, 2026
+Most assignments and labs were ChatGPT slop. PowerPoint slides are insanely confusing and unintuitive. Words seemed to merge together every time Khattab spoke. No idea what was happening during most lectures.
+Tags: Participation matters, Lecture heavy, Test heavy
+
+---
+
+Quality: 3.0 | Difficulty: 3.0 | Course: CS1550 | Date: Apr 9th, 2026
+Great projects, great labs, okay homework assignments, but lectures are EXTREMELY boring and difficult to follow. Dr. Khattab is such a nice guy and very intelligent and knows the material, but I'd be amazed to find someone that gets something out of lecture. Exams are tough but fair, but the midterm hadn't been graded in 5-6 weeks.
+Tags: Helpful
+
+---
+
+Quality: 3.0 | Difficulty: 3.0 | Course: CS0445 | Date: Jan 15th, 2026
+You can tell that he wants his students to succeed — there are lots of extra credit opportunities. That said, his lectures can be pretty boring and the tests are difficult. Expect the exams to mirror the slides (which are very hard to follow). All in all, he's not a bad professor but there are both better and worse within the faculty.
+Tags: Extra credit, Lots of homework, Accessible outside class
+
+---
+
+Quality: 3.0 | Difficulty: 4.0 | Course: CS1501 | Date: Jan 6th, 2026
+He's a good professor and posts his slides, although they're not intuitive to understand without the lecturing. He does post video recordings. Please stay on top of your work — projects are extremely hard and require a lot of time. If you do not understand something, reach out immediately. 1501 is a hard class.
+Tags: Lots of homework
+
+---
+
+Quality: 4.0 | Difficulty: 4.0 | Course: CS1501 | Date: Dec 19th, 2025
+It is a high effort class no matter who you take. Slides and lectures aren't intuitive, but ask questions and rewatch recordings, which are all uploaded. There are two exams which are quite difficult, so I recommend studying early and consistently. He is quite generous with extra credit which makes up for how challenging the content is.
+Tags: Extra credit, Accessible outside class
+
+---
+
+Quality: 4.0 | Difficulty: 3.0 | Course: CS1501 | Date: Dec 17th, 2025
+Autograder for coding assignments didn't open until the day it was due. He gives a lot of extra credit towards the end of the semester. The actual exams are very similar to the practice exams. The assignments can be challenging, but he is a nice professor overall.
+Tags: Extra credit, Lecture heavy
+
+---
+
+Quality: 4.0 | Difficulty: 5.0 | Course: CS1501 | Date: Dec 17th, 2025
+The assignments were catastrophic and way over-the-top with bad support, and his teaching was mediocre. That being said, he is very accommodating to people struggling with mental health. He let me take one test after it already happened with no prior warning, and uploads every lecture and slide.
+Tags: Helpful
+
+---
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CS1501 | Date: Dec 6th, 2025
+Khattab is super sweet. He knows his stuff and loves to talk with students. Do your work and don't cheat!
+Tags: Extra credit, Caring, Lecture heavy
+
+---
+
+Quality: 2.0 | Difficulty: 5.0 | Course: CS1501 | Date: Nov 5th, 2025
+It's absolutely horrendous how difficult the coding assignments are, not to mention the submission upload time. The most recent assignment might've been the hardest coding assignment I have ever done in my life. 1 assignment every 1.5-2 weeks, and I spent maybe 60+ hours straight.
+Tags: Lecture heavy, Test heavy
+
+---
+
+Quality: 1.0 | Difficulty: 4.0 | Course: CS1501 | Date: Nov 1st, 2025
+Terrible assignments that have very little correlation to what he teaches. Gradescope opens less than 24 hours before the due date. Take anyone but him.
+Tags: Helpful
+
+---
+
+Quality: 2.0 | Difficulty: 5.0 | Course: CS1501 | Date: Oct 31st, 2025
+This class is extremely time-intensive but offers little real value. Assignments open late, feedback is minimal, and TAs often give conflicting advice. The professor is knowledgeable, but poor coordination, abstract coding assignments, and little real-world application make it feel more like tedious grunt work than useful learning.
+Tags: Tough grader, Lots of homework, Test heavy
+
+---
+
+Quality: 1.0 | Difficulty: 5.0 | Course: CS1501 | Date: Oct 31st, 2025
+The worst CS course I've taken at Pitt. It is hard to believe that we get Gradescope access almost at the due date of the assignment.
+Tags: Helpful
+
+---
+
+Quality: 1.0 | Difficulty: 3.0 | Course: CS1501 | Date: Jul 1st, 2025
+Better off taking any other instructor no matter what.
+Tags: Helpful
+
+---
+
+Quality: 4.0 | Difficulty: 2.0 | Course: CS1501 | Date: May 20th, 2025
+Khattab is disorganized, but he is a great lecturer, answers even the dumbest questions and gives you candy for participation. Labs and projects were easy, homeworks were annoying but also easy. Exams required a lot of prep, but he gives so many resources that they were more than doable.
+Tags: Extra credit, Amazing lectures, Caring
+
+---
+
+Quality: 4.0 | Difficulty: 4.0 | Course: CS1501 | Date: May 16th, 2025
+Khattab is interesting to say the least. We didn't receive our first assignment until way after the first midterm, and had to squeeze the second assignment in during finals week. Also hard to get hold of. Tests are unnecessarily hard. However, he cares about your learning and encourages participation. Besides tests, easy grader, EASY labs.
+Tags: Tough grader, Caring, Test heavy
+
+---
+
+Quality: 4.0 | Difficulty: 5.0 | Course: CS1501 | Date: May 8th, 2025
+Really nice guy but those exams were insanely hard — probably still the best option for 1501 though.
+Tags: Helpful
+
+---
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CS1501 | Date: May 7th, 2025
+Barely paid attention the entire semester and did great. Records all lectures, provides extra help if needed. Midterm and final were stressful because I wasn't locked in, but he gave lots of resources — very similar to practice exams. Extra credit carried. Assignments doable.
+Tags: Extra credit, Clear grading criteria, Lots of homework
+
+---
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CS1550 | Date: May 6th, 2025
+Great lecturer and gives lots of time for questions. Labs and projects can be hand-holdy, but exams are difficult. Gives LOTS of extra credit. Very disorganized, especially this semester. Course was still a lot of work, but doable.
+Tags: Extra credit, Caring
+
+---
+
+Quality: 1.0 | Difficulty: 4.0 | Course: CS1501 | Date: May 2nd, 2025
+This class truly was ridiculous in terms of exams, projects, and an extreme lack of clarity and explanations for problems that arose. Lectures did not transfer to the exams and good luck with the projects.
+Tags: Helpful
+
+---
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CS1550 | Date: Apr 17th, 2025
+Khattab is a great professor. He teaches you so much and explains everything thoroughly. If you show up to class and do your work you will be fine. There are biweekly labs and weekly homeworks and projects sprinkled in but it is manageable. If you are a student dreading OS, like I was, you will be pleasantly surprised taking this course with him.
+Tags: Participation matters, Lots of homework, Test heavy
+
+---
+
+Quality: 3.0 | Difficulty: 3.0 | Course: CS0445 | Date: Mar 28th, 2025
+Khattab's lectures were boring but he records them so if you zone out, they're accessible for later. Exams are crazy but if you get a 100 on every project, do alright on homework, and take every extra credit opportunity (like going to recitation), you will pass the class. Learning-wise, he's the best CS prof I've had at Pitt, most engaging.
+Tags: Extra credit
+
+---
+
+Quality: 1.0 | Difficulty: 3.0 | Course: CS1501 | Date: Mar 24th, 2025
+The class still hasn't received our first assignment. There were supposed to be 6 assignments worth 40% of our grade and we have gotten none. The semester is over in 4 weeks. This happened with a class I took with him last semester as well. Do not recommend.
+Tags: Lecture heavy
+
+---
+
+Quality: 3.0 | Difficulty: 5.0 | Course: CS1501 | Date: Jan 7th, 2025
+Sherif is a good teacher but his lectures are dry and often feels like he is cramming material. Assignments take a lot of time and are very difficult; he offers very little help and if you get a bad TA it will make life very difficult. Our midterm exam average was a D even after the curve. He gives a lot of extra credit but it's just a lot of work.
+Tags: Helpful
+
+---
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CS1501 | Date: Jan 6th, 2025
+Definitely recommend Khattab — contrary to public opinion I think his lectures are great! He also gives SO much extra credit and candy for answering questions. It's clear he wants you to do well. Assignments aren't too bad, but exams are quite difficult and lengthy (but he does test corrections) and he is not accessible outside of class at ALL.
+Tags: Extra credit, Amazing lectures, Caring
+
+---
+
+Quality: 4.0 | Difficulty: 2.0 | Course: CS447 | Date: Dec 18th, 2024
+Khattab really cares. He was new to 447 so this semester was not very organized. We got a chance to get points back for the midterm. Tests are fair; projects are hard because they are assigned late and guidelines are vague. The annoying thing about labs is that the autograder doesn't get assigned and when they get posted you just get a grade.
+Tags: Participation matters, Caring, Graded by few things
+
+---
+
+Quality: 4.0 | Difficulty: 3.0 | Course: CS1501 | Date: Dec 6th, 2024
+I've taken both Farnan and Khattab for 1501. Khattab is easier, but Farnan is better at lecturing and making sure you understand how the algorithms work. Projects are more hand-holdy with Khattab, and take 6-10 hours instead of 15-20. Extra credit, TopHat, and attendance really pads your grade too. Take Farnan if you really enjoy CS. Take Khattab if you want the grade.
+Tags: Extra credit
+
+---
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CS1501 | Date: May 17th, 2024
+Best 1501 professor by far. I was so nervous for this class but it ended up going really smoothly. If you put in the effort to stay on top of assignments and labs/homeworks on time, and don't completely bomb the midterms, YOU WILL get a 99%. He's also a fun guy, I thought he was very nice.
+Tags: Extra credit, Hilarious, Caring
+
+---
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CS1501 | Date: May 6th, 2024
+Khattab is awesome. His lectures are a little boring, but if you miss some lectures it's not a big deal because they are recorded. You will put in work on the projects, and the exams are kind of difficult, but he gives so much extra credit that it is hard not to get an A.
+Tags: Helpful
+
+---
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CS1550 | Date: May 1st, 2024
+Very approachable professor, but the tests are tough. If he didn't give so many opportunities for points across the class, it'd be brutal. Make sure to review the material and start projects early. He will throw you candy for lecture participation so practice your hand-eye coordination!
+Tags: Participation matters, Extra credit, Test heavy
+
+---
+
+Quality: 4.0 | Difficulty: 3.0 | Course: CS1501 | Date: May 1st, 2024
+1501 is one of the hardest CS classes, but Khattab is the best choice, and also the easiest. His tests are definitely harder than Farnan's but his projects are much easier and he provides test cases. Also provides extra credit and candy for answering questions. He doesn't respond to emails or Piazza, but very helpful after class and in office hours.
+Tags: Extra credit, Lots of homework, Lecture heavy
+
+---
+
+Quality: 3.0 | Difficulty: 3.0 | Course: CS1501 | Date: Feb 25th, 2024
+He is a good professor but expects you to know everything. Exams are harder than assignments and labs but are doable with a lot of studying. Gives a lot of bonus points and is very nice about turning work in late but very hard to reach outside of class. The TA or CS tutoring center might be more helpful if you need immediate help.
+Tags: Helpful
+
+---
+
+Quality: 3.0 | Difficulty: 3.0 | Course: CS1501 | Date: Jan 12th, 2024
+Super nice guy, but I would honestly say to just take Farnan. Decent class, but very disorganized and usually half the projects end up getting canned by the end of the semester because we were so behind.
+Tags: Caring
+
+---
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CS1501 | Date: Jan 7th, 2024
+Great professor. He is accessible outside class. His teaching is rewarding for job interviews. I felt confident in myself completing his class. Lots of extra credit opportunities. Midterm regrade. Nice learning journey.
+Tags: Extra credit, Caring, Respected

@@ -1,0 +1,258 @@
+Professor: Nick Farnan
+Department: Computer Science
+University: University of Pittsburgh
+Source: Rate My Professors
+URL: https://www.ratemyprofessors.com/professor/1894664
+Overall Rating: 3.5/5 | Would Take Again: 64% | Difficulty: 4.1/5 | Total Ratings: 145
+
+---
+
+Quality: 4.0 | Difficulty: 5.0 | Course: CS1501 | Date: May 6th, 2026
+I liked Dr. Farnan. He makes you participate, but I think that made lectures feel like we were figuring out how the algorithms/data structures work with him, which I think overall helped me understand the content better. Projects are hard but not impossible. Tests are online, open book and straightforward, but study — do not underestimate them.
+Tags: Participation matters, Amazing lectures
+
+---
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CS1520 | Date: May 6th, 2026
+Great professor as always. His lectures are great and engaging, very clear that he's very passionate and has been teaching a very long time. Projects are a bit easier than 1501, but still a bit challenging. Lots of content in one course. Exams are open-note and all the answers are in the slides.
+Tags: Amazing lectures, Respected
+
+---
+
+Quality: 4.0 | Difficulty: 5.0 | Course: CS1501 | Date: May 2nd, 2026
+I liked Dr. Farnan. 1501 is a hard class no matter who you take it with, but Dr. Farnan's style of having the students work through how the examples work is very helpful. He makes you participate, but it helps people think deeper about how these algorithms work. Tests are easyish, projects are tough but not impossible.
+Tags: Participation matters, Clear grading criteria
+
+---
+
+Quality: 4.0 | Difficulty: 3.0 | Course: CS1555 | Date: Apr 30th, 2026
+I really enjoyed this class. It is challenging but Farnan does a great job at explaining the material in his lectures and the recitation (also required) helps a lot to apply the knowledge. There are homeworks and a group project with multiple phases. Tests are pretty difficult too.
+Tags: Participation matters, Amazing lectures, Lecture heavy
+
+---
+
+Quality: 4.0 | Difficulty: 4.0 | Course: CS1555 | Date: Apr 28th, 2026
+Dr. Farnan is fair and exact. He can come off as no-nonsense and a bit cold, but he is passionate about what he teaches. Assignment and project requirements will be clearly written out for you. His lecturing is direct and clear, so if you pay attention, you will learn what you need to succeed. I can recommend him.
+Tags: Participation matters, Group projects, Clear grading criteria
+
+---
+
+Quality: 2.0 | Difficulty: 4.0 | Course: CS1501 | Date: Jan 14th, 2026
+Okay lectures, but is out to harm your grade. Projects have tons of hidden edge cases designed to dock as many points from you as possible. Also loves handing out zeros on projects. Exam responses must be exactly what he expects (forgot a comma in a list? zero). Clearly just wants to put in the minimum effort possible.
+Tags: Tough grader, Participation matters
+
+---
+
+Quality: 4.0 | Difficulty: 4.0 | Course: CS1501 | Date: Dec 19th, 2025
+Struggled through this class but learned a lot. Great lectures but difficult projects. Tests are take-home but don't underestimate them — it's super easy to make a mistake and lose a lot of points. TAs help a ton for projects, wish I'd gone to them sooner. Dr. Farnan can be ambiguous in office hours but I still found them helpful.
+Tags: Tough grader, Participation matters
+
+---
+
+Quality: 5.0 | Difficulty: 5.0 | Course: CS1501 | Date: Dec 17th, 2025
+The best lecturer in the Pitt CS department. You must participate during lecture however it is not that difficult as class sizes are generally smaller. His projects are incredibly difficult. Beware of hidden test cases not checked by the autograder. Exams are open note, take-home, and generally easy. If you want to learn, take this professor.
+Tags: Tough grader, Participation matters, Amazing lectures
+
+---
+
+Quality: 2.0 | Difficulty: 4.0 | Course: CS1501 | Date: Dec 14th, 2025
+He is stern and will not get back to you when you answer. Participation is part of your grade but he makes it uncomfortable to participate. Don't recommend taking him and don't think he is easy because tests are online.
+Tags: Helpful
+
+---
+
+Quality: 4.0 | Difficulty: 4.0 | Course: CS1501 | Date: Dec 10th, 2025
+Excellent and in-depth lectures, participation is graded but useful. Projects are hard but manageable if you start early. Exams are take-home but hard, so prepare accordingly. My only complaint is that Farnan is very against giving help on projects, even with clarifying instructions, which can add unnecessary stress. Overall hard but not impossible.
+Tags: Participation matters, Amazing lectures, Hilarious
+
+---
+
+Quality: 4.0 | Difficulty: 5.0 | Course: CS1501 | Date: Dec 4th, 2025
+Farnan is definitely much better than Khattab. Projects are legendarily hard, but he gives you plenty of time to do them. Amazing lectures, you have to participate but he offers plenty of chances to answer questions. Content is kind of hard but exams are okay and take-home. The questions he asks are like ones in technical interviews. Recommend.
+Tags: Tough grader, Participation matters, Amazing lectures
+
+---
+
+Quality: 1.0 | Difficulty: 3.0 | Course: CS1666 | Date: Dec 3rd, 2025
+This course is overwhelmingly weighted towards implementation. Farnan stated he "didn't care" about the game itself but only the technical implementation of advanced topics. No systematic playtesting, limited coverage of design frameworks, no discussion of player personas, no storyboarding. Basically treating game dev as a programming challenge.
+Tags: Group projects
+
+---
+
+Quality: 1.0 | Difficulty: 5.0 | Course: CS1555 | Date: Dec 3rd, 2025
+Farnan teaching 1555 is not the same as Farnan teaching 1501. It's like night and day. He goes quickly through the slides, doesn't answer questions clearly, and mumbles off whenever explaining things.
+Tags: Helpful
+
+---
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CS1501 | Date: May 3rd, 2025
+Very good class. Farnan made his lectures very engaging and was very passionate about making sure students understood the subject and its applications. If your class isn't too shy about participation it is fun. Projects are tough but manageable. Exams are open note and easy as long as you paid attention.
+Tags: Participation matters, Amazing lectures, Lots of homework
+
+---
+
+Quality: 4.0 | Difficulty: 3.0 | Course: CS1520 | Date: Apr 22nd, 2025
+Meant for those who already have experience with web dev, but doable. Gives good resources for everything. Projects weren't too difficult but definitely time consuming. Exams were confusing and definitely harder than 1501. Attendance and participation is the only grade besides 4 projects and 2 tests. Overall useful class.
+Tags: Amazing lectures, Graded by few things
+
+---
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CS1520 | Date: Apr 22nd, 2025
+Professor Farnan is an excellent and engaging lecturer with high quality slides and recorded classes. Projects are somewhat tough but very useful for industry applications. He has two manageable take-home exams. I would recommend this upper level elective with Farnan to all CS students.
+Tags: Amazing lectures, Graded by few things, Accessible outside class
+
+---
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CS1520 | Date: Apr 22nd, 2025
+Farnan is just a very good professor. He does everything well. 1520 was a helpful class with projects that are helpful to learn new languages and frameworks. Online exams were pretty chill. If you put in an adequate amount of effort, you are set to get an A. Expect projects to take 12-20 hours.
+Tags: Caring, Respected
+
+---
+
+Quality: 3.0 | Difficulty: 4.0 | Course: CS1520 | Date: Apr 17th, 2025
+Farnan is doing way too much with this course. Projects aren't too large, but each one is based on a new language/framework/tool, which means you need to spend lots of extra hours looking up examples online and experimenting with the code yourself if you want to learn the material beyond what is exactly required for the projects.
+Tags: Get ready to read, Participation matters, Hilarious
+
+---
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CS1501 | Date: Apr 10th, 2025
+Hard class but probably the best CS teacher I have had at Pitt so far. No partial credit on projects or exams hurts though. He hides most of the test cases so you have to write your own for projects.
+Tags: Tough grader, Participation matters
+
+---
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CS1501 | Date: Mar 27th, 2025
+Excellent lectures and hard somewhat open-ended projects.
+Tags: Participation matters, Amazing lectures, Lots of homework
+
+---
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CS1501 | Date: Jan 19th, 2025
+Farnan teaches a rigorous class but teaches it well. Projects are tough and to be started early, exams are predictable and not too hard.
+Tags: Tough grader, Participation matters, Graded by few things
+
+---
+
+Quality: 3.0 | Difficulty: 5.0 | Course: CS1501 | Date: Jan 15th, 2025
+Dr. Farnan is a great lecturer, he makes difficult concepts easy to break down for students. However, projects were INCREDIBLY challenging and, although clear, were very open-ended and overly demanding. Without the TAs, many students would have been lost. Additionally, he is not accommodating and a bit curt when going to him one-on-one. Easy exams.
+Tags: Tough grader, Lots of homework, Graded by few things
+
+---
+
+Quality: 4.0 | Difficulty: 3.0 | Course: CS0441 | Date: Jan 9th, 2025
+Lots of homework and recitation work. Participation was mandatory and a pretty significant portion of your grade. He's a very good lecturer but isn't lenient at all in any regard. The midterm and final were challenging, but they were open-note and online. Read the book and you'll be fine.
+Tags: Participation matters, Lots of homework
+
+---
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CS0441 | Date: Dec 20th, 2024
+Made 441 pretty easy. Basically teaches exactly what was written in the textbook. Funny and engaging lectures. Just pay attention and take notes! He records lectures too and you can participate through Discord if you don't like speaking. Lots of homework though, but as long as you read the textbook it's not too hard, and he drops 2-3 homeworks and recitations.
+Tags: Participation matters, Lots of homework, Online Savvy
+
+---
+
+Quality: 3.0 | Difficulty: 3.0 | Course: CS0441 | Date: Dec 20th, 2024
+For CS441 he seemed like an average professor. There are homeworks and worksheets which aren't too bad if you go along with the textbook. Participation is 10% of your grade so it will really bring you down. Tests are a huge chunk of the grade.
+Tags: Participation matters, Lecture heavy
+
+---
+
+Quality: 2.0 | Difficulty: 3.0 | Course: CS1666 | Date: Dec 19th, 2024
+The entire semester is a group project for better and for worse. For better because you make a cool game, for worse because if members of your group don't hold their weight he'll fail ALL of you without question. Rust is also kinda difficult.
+Tags: Group projects, Lecture heavy, Graded by few things
+
+---
+
+Quality: 4.0 | Difficulty: 5.0 | Course: CS1501 | Date: Dec 19th, 2024
+This class helped me learn more than I thought. For projects 2 and 3, I devoted 50 hours over two weeks for each, and I felt mentally exhausted after working on them. Planning early on projects, watching recordings, and don't take Calc 2 with it.
+Tags: Tough grader, Participation matters, Lots of homework
+
+---
+
+Quality: 4.0 | Difficulty: 3.0 | Course: CS1501 | Date: Dec 19th, 2024
+His lectures are easy to follow and very organized. The overall material isn't hard but testing for some of the projects was a pain.
+Tags: Tough grader, Participation matters, Amazing lectures
+
+---
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CS1501 | Date: Dec 19th, 2024
+Great prof. His lectures are great, projects are tough — start them ASAP. Exams are not too bad and they are online. Very organised, fun guy.
+Tags: Get ready to read, Amazing lectures, Respected
+
+---
+
+Quality: 1.0 | Difficulty: 5.0 | Course: CS0441 | Date: Dec 18th, 2024
+Farnan is a decent lecturer at best and seriously lacks empathy. Homework was overly excessive and often unrelated to lectures. His slideshows were incomplete and likely borrowed. His condescending attitude made this intro CS 441 class unbearable.
+Tags: Tough grader, Test heavy
+
+---
+
+Quality: 5.0 | Difficulty: 5.0 | Course: CS1501 | Date: Dec 16th, 2024
+Nice lectures, brutal projects (hard to test), and fair exams. All-or-nothing grading. SHARE TEST CASES BETWEEN CLASSMATES!
+Tags: Tough grader, Participation matters, Amazing lectures
+
+---
+
+Quality: 4.0 | Difficulty: 4.0 | Course: CS1666 | Date: Dec 5th, 2024
+Farnan is an amazing professor. I HIGHLY recommend him for any class you take. However, I also HIGHLY recommend you just do not take CS1666. It is a miserable slog of teaching yourself while relying on a group that just may not do the work to get your project done by the deadline.
+Tags: Participation matters, Group projects, Gives good feedback
+
+---
+
+Quality: 5.0 | Difficulty: 5.0 | Course: CS1501 | Date: Nov 18th, 2024
+I thought he was very fair. His lectures were well organized and easy to follow. The projects were difficult, but I think they were good because it really helped us learn more rather than easier smaller assignments. I was not a CS major, but he was one of my favorite professors to learn from.
+Tags: Amazing lectures
+
+---
+
+Quality: 1.0 | Difficulty: 5.0 | Course: CS1501 | Date: Oct 20th, 2024
+He is a great guy with a great sense of humor, but a horrendous professor. He seems to think that students are machines who can finish 16 hours worth of code in 30 minutes. And he doesn't give any partial credit — because according to him, it's completely reasonable for a student to get a 50 on a project in which 2 lines of code fail.
+Tags: Tough grader, Lots of homework, Graded by few things
+
+---
+
+Quality: 1.0 | Difficulty: 5.0 | Course: CS1501 | Date: May 30th, 2024
+Great lecturer, probably the best in the department in terms of breaking down sophisticated topics. But that's about where the positives end. Farnan is a very tough professor, he will not give any accommodations and his hidden test cases add more stress than necessary. In addition, he was a bit condescending towards confused students.
+Tags: Tough grader, Amazing lectures
+
+---
+
+Quality: 4.0 | Difficulty: 5.0 | Course: CS1501 | Date: Apr 22nd, 2024
+Farnan is like bitter medicine. Projects are difficult and purposely vague (but not unclear). He provides boilerplate and basic test cases. You'll have to figure out which data structure to use and implement it in relevant scenarios. Passing every test might guarantee you only 20%. The rest are hidden from you. Start early and make your own tests!
+Tags: Tough grader
+
+---
+
+Quality: 4.0 | Difficulty: 4.0 | Course: CS1501 | Date: Apr 16th, 2024
+Farnan is a great lecturer with high expectations for his students. Projects are hard with clear descriptions, but unclear rubrics. Tests aren't too difficult if you show up to class and take notes, because they are more conceptual than code-based. If you can't avoid taking another hard CS class at the same time, prepare to be buried.
+Tags: Helpful
+
+---
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CS1501 | Date: Jan 18th, 2024
+This is a tough class, and the projects take a lot of time, however Farnan gives you everything you need to succeed. His lectures are very thorough and engaging, and he is available outside of class via Discord along with the TAs and other students. Exams are open note and weren't too bad if you study his lecture notes. Read the textbook.
+Tags: Tough grader, Clear grading criteria
+
+---
+
+Quality: 2.0 | Difficulty: 5.0 | Course: CS1501 | Date: Jan 6th, 2024
+Farnan is an amazing lecturer. That is about the only positive feedback I can give. His exams are impossible, you will get no helpful feedback on any projects or assignments, and assignments expect previous knowledge of GitHub and Leetcode. He is just a mean and pretentious man. He actively enjoys the suffering of his students, and lacks empathy.
+Tags: Tough grader, Participation matters, Amazing lectures
+
+---
+
+Quality: 5.0 | Difficulty: 5.0 | Course: CS1501 | Date: Apr 25th, 2024
+This class was honestly so painful, but I learned so much from it. Dr. Farnan has amazing lectures, and you will definitely learn a lot by the end of it. Start the projects immediately — my biggest mistake was not putting enough time into them. My exam grades carried me; you will do well on them if you pay attention to the lectures.
+Tags: Tough grader, Amazing lectures
+
+---
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CS1501 | Date: Apr 25th, 2024
+I learned so much from his class. Lectures are detailed and engaging, and you will learn quickly if you actively participate. Projects are tough and time consuming, and require a ton of attention to detail. If you go to lecture, the exams are pretty easy.
+Tags: Amazing lectures, Lots of homework
+
+---
+
+Quality: 4.0 | Difficulty: 3.0 | Course: CS1501 | Date: Apr 26th, 2024
+Farnan is a good choice for 1501. Projects are tough but not too bad. The longest probably took about 20 hours, while the shortest only took about 5. Feel like I learned a lot, and definitely got better at leetcode and technical interview stuff. Definitely recommend for 1501.
+Tags: Helpful

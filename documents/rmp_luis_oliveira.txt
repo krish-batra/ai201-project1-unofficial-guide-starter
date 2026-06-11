@@ -1,0 +1,210 @@
+Professor: Luis Oliveira
+Department: Computer Science
+University: University of Pittsburgh
+Source: Rate My Professors
+URL: https://www.ratemyprofessors.com/professor/2447491
+Overall Rating: 3.7/5 | Would Take Again: 67% | Difficulty: 3.8/5 | Total Ratings: 95
+
+---
+
+Quality: 4.0 | Difficulty: 4.0 | Course: CS0447 | Date: May 8th, 2026
+Luis is the definition of strict but fair. At times it would feel like I got a lower grade than I expected, but then looking at the rubric my projects were actually just missing things. 2 exams, 3 projects, but I found the exams to be significantly easier than the projects. He takes forever to grade anything not autograded. Don't use AI.
+Tags: Tough grader, Clear grading criteria, Lots of homework
+
+---
+
+Quality: 4.0 | Difficulty: 4.0 | Course: CS447 | Date: May 5th, 2026
+Overall a good professor, he seems to genuinely care about his students and the course he teaches. However, do NOT use AI for his labs or projects since he did a last-minute check before final grades came out. Lectures can be a bit confusing, especially the projects. Project 2 only had a jumpstart from a lab, but can be very unclear how to start.
+Tags: Lots of homework, Lecture heavy, Accessible outside class
+
+---
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CS0447 | Date: May 5th, 2026
+The goat, super easy professor if you want it bad enough. Anybody can get an A if they go to class. I did spend 15+ hours on the second project but you get 3 weeks to do it, this was the only hard part of the class.
+Tags: Extra credit, Lots of homework, Caring
+
+---
+
+Quality: 1.0 | Difficulty: 4.0 | Course: CS0447 | Date: Apr 4th, 2026
+I would not recommend for 447. No exam/project grades yet at all in the course, only lab grades. I have no idea where I stand in the course with just a few weeks of class left. Quite discouraging during office hours, so I only go to TAs. Very confusing lectures, little to no guidance on labs which can take hours.
+Tags: Helpful
+
+---
+
+Quality: 3.0 | Difficulty: 4.0 | Course: CS449 | Date: Jan 6th, 2026
+A good lecturer, but difficult exams and extremely dependent on projects that you have to be on top of. Attendance was rewarded with late days, and would absolutely recommend it. Don't get behind: this class is tough if you don't put in the proper effort. A bit intimidating, but worth reaching out for help when necessary.
+Tags: Lots of homework, Test heavy
+
+---
+
+Quality: 3.0 | Difficulty: 4.0 | Course: CS449 | Date: Dec 19th, 2025
+Stay on top of the material to survive his class and do practice exams for the Midterm and Final Exam. Also if you get the chance just take Jarrett.
+Tags: Get ready to read, Extra credit, Test heavy
+
+---
+
+Quality: 3.0 | Difficulty: 4.0 | Course: CS449 | Date: Dec 19th, 2025
+I'd recommend taking CS 449 with Jarrett if you have the chance. He doesn't have checkoffs and 20% recitation exercises like Luis. Only exams are weighted more with Jarrett. Projects are less detailed and more complex in Luis' class compared to Jarrett's class.
+Tags: Tough grader, Test heavy
+
+---
+
+Quality: 3.0 | Difficulty: 4.0 | Course: CS449 | Date: Dec 19th, 2025
+Make sure you are prepared for the Project Checkoffs, as you could be randomly selected and need to ace the checkoff with the TA. Lots of homework and labs as well. Make sure you study well in advance for the exams, as they're very tough. Tough projects as well.
+Tags: Tough grader, Lots of homework, Test heavy
+
+---
+
+Quality: 3.0 | Difficulty: 4.0 | Course: CS449 | Date: Dec 19th, 2025
+Very tough course. Be prepared for 20% recitation exercises for each project. They make up 20% of each project's grade, so it's important to perform well on those. Make sure you consistently study and practice the lecture material as well as understand the code you write for projects.
+Tags: Lots of homework, Lecture heavy, Test heavy
+
+---
+
+Quality: 4.0 | Difficulty: 3.0 | Course: CS0447 | Date: Dec 17th, 2025
+I think that Luis was okay for CS 0447. He's a little disorganized, but he's very knowledgeable about what you're learning. The average for the midterm was a 57, but he provided points back. The final was way easier. There are 3 projects - start early! Also, there are labs almost every week even on weeks when projects are due. Go to class!
+Tags: Participation matters, Lecture heavy
+
+---
+
+Quality: 4.0 | Difficulty: 3.0 | Course: CS449 | Date: Dec 17th, 2025
+Difficult content but if you show up to lecture you can get through. Grade was project-heavy, with weekly labs and participation quizzes in recitation. Opportunities for extra credit on the midterm and final were given.
+Tags: Helpful
+
+---
+
+Quality: 3.0 | Difficulty: 4.0 | Course: CS0447 | Date: Dec 10th, 2025
+Honestly pretty engaging and a decent prof, just a very boring class. Midterm was hard, average was around 55 but gave back some points to everyone. Lecture slides are posted and attendance is not mandatory. Tests are harder than Jarrett's, but the class is less weighted on tests and more on projects and labs which take a good amount of time.
+Tags: Test heavy
+
+---
+
+Quality: 1.0 | Difficulty: 1.0 | Course: CS447 | Date: Dec 5th, 2025
+Going to his office hours feels completely unpredictable — sometimes you might get a point back, but other times he'll suddenly bring up an assignment from weeks ago and penalize you for something you didn't even realize was an issue. Overall, it's a really stressful and discouraging experience.
+Tags: Tough grader, Lots of homework, Beware of pop quizzes
+
+---
+
+Quality: 4.0 | Difficulty: 4.0 | Course: CS447 | Date: Dec 3rd, 2025
+TAKES FOREVER TO GRADE. 60% average midterm grade in my class (made ways for people to get points back). Lectures are sometimes pretty boring, but he actively tries to keep class engaged. Manageable workload if you are familiar with low level programming languages.
+Tags: Clear grading criteria, Lots of homework
+
+---
+
+Quality: 4.0 | Difficulty: 4.0 | Course: CS449 | Date: Jun 28th, 2025
+Lectures can be a little boring but they are very informational and detailed with great slides. Projects aren't too hard outside of malloc. Checkoff meetings aren't an issue. Some labs are very difficult. Tests are pretty tough but practice exams he provides are massively helpful. Recitations and office hours are key to a good grade.
+Tags: Lecture heavy, Online Savvy
+
+---
+
+Quality: 3.0 | Difficulty: 5.0 | Course: CS449 | Date: May 3rd, 2025
+He is a nice person but the course management is not good. Delays on grading and unclear expectations. Everything is hard and requires effort. A good grade is attainable but comes with lots of stress. However, he covers a bit more than other sections to prepare you for the future OS course and that's nice.
+Tags: Tough grader, Lots of homework, Caring
+
+---
+
+Quality: 2.0 | Difficulty: 5.0 | Course: CS449 | Date: Apr 29th, 2025
+Nice guy but that's about it. Lectures are boring and long winded and the slideshows provided aren't helpful for review. No study guides given for exams or finals. Projects and labs are unnecessarily complicated. If you can, take Jarrett.
+Tags: Extra credit, Lecture heavy, Test heavy
+
+---
+
+Quality: 2.0 | Difficulty: 5.0 | Course: CS449 | Date: Apr 28th, 2025
+Luis is a very nice guy but there's clearly some AI fear baked into his assignments and labs. The wording is intentionally vague, and to a certain extent that's okay, but sometimes the vagueness is supposed to make you think but all it does is confuse you more.
+Tags: Tough grader, Get ready to read, Test heavy
+
+---
+
+Quality: 1.0 | Difficulty: 4.0 | Course: CS449 | Date: Apr 22nd, 2025
+Professor Oliveira runs disorganized lectures with slides that are difficult to follow. Many labs are more difficult and time consuming than they should be, and projects (malloc) are extremely challenging. He is very paranoid about cheating and requires TA check-ins to confirm understanding of every project. Cannot recommend.
+Tags: Lots of homework, Test heavy
+
+---
+
+Quality: 1.0 | Difficulty: 3.0 | Course: CS449 | Date: Apr 22nd, 2025
+Arguably the worst class I have taken at Pitt. His lectures are extremely boring; slides are not informative. Exams felt like brand new information and are pretty difficult. It's finals week and he has still not graded stuff from January.
+Tags: Test heavy, Graded by few things, Accessible outside class
+
+---
+
+Quality: 1.0 | Difficulty: 5.0 | Course: CS449 | Date: Apr 22nd, 2025
+His lectures are incredibly disorganized, and he couldn't be bothered to update his slides from years ago. It took Luis almost two months to grade our midterm, and he still hasn't graded a single project or lab.
+Tags: Lecture heavy, Test heavy
+
+---
+
+Quality: 3.0 | Difficulty: 5.0 | Course: CS449 | Date: Mar 31st, 2025
+Luis was a nice guy. He joked around during lectures, although that didn't really save them from being boring. We didn't get any of our grades back until finals so I had no idea how I was doing in the class the entire semester. His project and lab directions are very vague and unnecessarily hard.
+Tags: Lots of homework
+
+---
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CS449 | Date: Jan 28th, 2025
+Goat goat goat.
+Tags: Inspirational, Caring, Respected
+
+---
+
+Quality: 4.0 | Difficulty: 4.0 | Course: CS449 | Date: Jan 28th, 2025
+Luis is a great guy! Lectures can be dull, but labs and projects teach systems software well — start early! Practice exams are crucial and similar to the real thing. Recitation quizzes felt unreasonably tough. Overall, fair if you put in effort, so be sure to allocate a chunk of time for this class.
+Tags: Lecture heavy, Test heavy, Online Savvy
+
+---
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CS449 | Date: Jan 15th, 2025
+Prof. Oliveira has great lectures. He might be the best lecturer in the department. He's not the most organized but more than makes up for it by being super accessible and easy to talk to. Tests are very hard but projects were all pretty easy besides malloc.
+Tags: Amazing lectures, Inspirational, Accessible outside class
+
+---
+
+Quality: 4.0 | Difficulty: 3.0 | Course: CS449 | Date: Jan 9th, 2025
+Luis is a good lecturer and is very friendly. Projects were hard, but only the malloc project took me a long time. Some of the labs were very challenging though. Midterm and final exams were fine. Not many outside of class materials provided.
+Tags: Helpful
+
+---
+
+Quality: 2.0 | Difficulty: 5.0 | Course: CS449 | Date: Jan 3rd, 2025
+Overly detailed slides with unnecessary info that didn't help for the test. Studied and got a 43 on the midterm. Passed since projects are 40% of grade but office hours were packed with few TAs since everyone was lost. Midterm makeup questions on final because a lot of people needed it. Does not curve.
+Tags: Tough grader, Test heavy
+
+---
+
+Quality: 4.0 | Difficulty: 4.0 | Course: CS449 | Date: Dec 18th, 2024
+Luis is a funny guy. He is accessible on Discord if you need help. After each project you get an interview on it. The tests are hard so don't study last minute. Projects are interesting and they are featured on the tests as well. Labs are hard. Pop quizzes in recitation are extremely hard but he drops 2 lab/quiz grades.
+Tags: Test heavy, Graded by few things
+
+---
+
+Quality: 4.0 | Difficulty: 4.0 | Course: CS449 | Date: Aug 30th, 2024
+I love this guy. I thought he was funny and was clear in his lectures. The projects don't really hold your hand as much as you're probably used to. They are awesome though.
+Tags: Gives good feedback, Respected, Accessible outside class
+
+---
+
+Quality: 3.0 | Difficulty: 4.0 | Course: CS449 | Date: May 1st, 2024
+Really nice and passionate guy but not good at teaching in my opinion. Lectures were all over the place and really confusing. I had to teach myself pretty much everything. He is also very disorganized as he took forever to release grades and didn't always answer questions on Discord. Labs and projects were fair and not too bad.
+Tags: Caring, Respected, Lecture heavy
+
+---
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CS449 | Date: May 1st, 2024
+Take Luis for 449! He prepares you well for 1550. Lectures were recorded so I was able to rewatch if I did not understand something. The projects in general were not too bad but definitely start early, especially malloc. Exams were difficult but manageable and fair.
+Tags: Helpful
+
+---
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CS0447 | Date: Apr 28th, 2024
+He's good, some lectures can get a little confusing, but overall a great lecturer. Projects, labs, and exams were all fair and fine. My only real complaint is he took forever to release the submission links. Other than that he is a great professor.
+Tags: Amazing lectures, Caring, Lecture heavy
+
+---
+
+Quality: 4.0 | Difficulty: 3.0 | Course: CS0447 | Date: Apr 20th, 2024
+Lectures could be confusing sometimes. Projects weren't too hard but for the second and third ones there was additional information we needed to sort of teach ourselves. Overall not bad though, clearly caring and knowledgeable.
+Tags: Caring, Accessible outside class
+
+---
+
+Quality: 4.0 | Difficulty: 5.0 | Course: CS449 | Date: Jan 10th, 2024
+Expert, calm, and kind professor. Projects are tough but I felt I learned a lot after completing them. Lectures are a little superficial; need to go to office hours and recitations.
+Tags: Caring, Respected, Accessible outside class

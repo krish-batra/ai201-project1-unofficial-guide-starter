@@ -1,0 +1,156 @@
+Professor: Patrick Skeba
+Department: Computer Science
+University: University of Pittsburgh
+Source: Rate My Professors
+URL: https://www.ratemyprofessors.com/professor/2937623
+Overall Rating: 2.9/5 | Would Take Again: 60% | Difficulty: 2.9/5 | Total Ratings: 26
+
+---
+
+Quality: 4.0 | Difficulty: 2.0 | Course: CS1503 | Date: May 7th, 2026
+Really nice and always seemed to be willing to accommodate. I always attended lectures, but didn't get a ton out of them. For both the midterm and final he posts a practice test that is just like the real thing, so if you just figure that out the week before you will be fine. Recitations don't really matter so there is no need to go.
+Tags: Extra credit
+
+---
+
+Quality: 4.0 | Difficulty: 4.0 | Course: CS1503 | Date: May 1st, 2026
+He is a great professor, but I think the structure of this course was a bit disorganized, although it's a relatively new course in the CS major. He was great at presenting the content and was kind enough to go back in the lecture if you had questions. The homework was a bit difficult, handling LaTeX and working with R, and recitations never helped.
+Tags: Extra credit, Lots of homework, Test heavy
+
+---
+
+Quality: 1.0 | Difficulty: 4.0 | Course: CS1503 | Date: Apr 28th, 2026
+His lecture style feels like rambling. His slides are verbose. He barely utilized recitations and homework sometimes came out late. The course materials felt unorganized. However, he is enthusiastic, kind, and good at public speaking. Still, the way he managed this class made it very difficult for me to learn. I wish I had a different professor.
+Tags: Get ready to read, Lecture heavy
+
+---
+
+Quality: 1.0 | Difficulty: 3.0 | Course: CS1675 | Date: Dec 15th, 2025
+Skeba is nice, but he's horribly disorganized, doesn't follow his syllabus, never responds to emails, and is a bad lecturer. The class itself is a cleverly disguised statistics class teaching stuff you won't need for actual machine learning applications. Take CS1503 instead if you like math, or don't take anything at all.
+Tags: Helpful
+
+---
+
+Quality: 3.0 | Difficulty: 2.0 | Course: CS1675 | Date: Sep 12th, 2025
+Nice professor, knows the material and is willing to help. Homework, midterm, and exam are all take-home, easy to get a good grade. Felt like the exam and some of the homeworks were a lot of work — suggest getting started early on the exam. The lectures were also a lot of information and I had a hard time following along. They are posted online as well.
+Tags: Inspirational, Lots of homework, Lecture heavy
+
+---
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CS1503 | Date: May 7th, 2025
+He was given the class 1 month before it began and was handed someone else's notes, so he wasn't super familiar with it. Given this, he made sure that everyone was able to pass and only tested on the things he taught. He is an EXTREMELY nice guy and although grading wasn't super clear he still made sure everyone did well. No reason to complain.
+Tags: Extra credit
+
+---
+
+Quality: 1.0 | Difficulty: 1.0 | Course: CS1675 | Date: Apr 30th, 2025
+Last day of lecture, he said "I got too lazy to take attendance or give quizzes." Midterm project not graded as of the last day of finals week. Final exam was 30 multiple choice, remote, and easy. 6 homeworks that were easy but time consuming. Unless he changes it up majorly, it's essentially a free class.
+Tags: Lots of homework, Respected
+
+---
+
+Quality: 3.0 | Difficulty: 1.0 | Course: CS1503 | Date: Apr 26th, 2025
+Can get A+ without taking the final if he adds the extra credit stated in the syllabus. But he took over the course and was unfamiliar with the slides. It's clearly correct but he confuses himself and gave up following the existing material so everyone was confused. You'll get a good grade but you might not learn anything.
+Tags: Graded by few things
+
+---
+
+Quality: 1.0 | Difficulty: 3.0 | Course: CS1675 | Date: Apr 25th, 2025
+This teacher is SO unorganized. He has a syllabus at the beginning of the year but he doesn't stand by any of it. Midterm exam was randomly turned into a project. There is no final exam but apparently there's going to be a final quiz. Terrible lecturer — I can't even predict what my grade is going to be.
+Tags: Lots of homework, Graded by few things
+
+---
+
+Quality: 1.0 | Difficulty: 2.0 | Course: CS1503 | Date: Apr 22nd, 2025
+Dr. Skeba is a new professor and was assigned to this class last minute but lectures were still disorganized and unhelpful. He was constantly jumping back and forth between slides and saying "oh don't worry about that." Busywork online textbook as well.
+Tags: Get ready to read
+
+---
+
+Quality: 1.0 | Difficulty: 2.0 | Course: CS1503 | Date: Apr 22nd, 2025
+He was thrown into teaching the class a month before it started, but he was still thoroughly unprepared. Frequently messes up basic math for examples he makes up, disagrees with the slides for no reason, and is not very accommodating in office hours. Stumbles through explanations and not engaging.
+Tags: Helpful
+
+---
+
+Quality: 4.0 | Difficulty: 3.0 | Course: CS1675 | Date: Mar 30th, 2025
+I think the prof gives you the tools to learn and it's really up to the student to decide whether they want to learn the material or just pass another class. I would recommend him because he really seems to know what he is talking about and is willing to help you if needed.
+Tags: Helpful
+
+---
+
+Quality: 4.0 | Difficulty: 1.0 | Course: CMPINF0010 | Date: Mar 28th, 2025
+The class is so easy, but the lectures are so boring, and Skeba kind of repeats everything. There was not a single exam given and like 2 papers due. The labs are kind of annoying because they have nothing to do with what he teaches in class and are more coding, but the TAs help you a lot. Overall, easy A and not hard at all.
+Tags: Group projects, Caring
+
+---
+
+Quality: 4.0 | Difficulty: 5.0 | Course: CS1675 | Date: Mar 17th, 2025
+I like Dr. Skeba as a professor, because he lectures well and tries his best to help people understand the material. However, this class is horrible. This is a math class disguising itself as a CS class, which is not what I came to learn. I would take Dr. Skeba for other classes, but this class by itself is just painful.
+Tags: Lots of homework, Graded by few things, Accessible outside class
+
+---
+
+Quality: 3.0 | Difficulty: 4.0 | Course: CS1675 | Date: Feb 17th, 2025
+Lectures are disorganized and incredibly confusing, largely because the material is so hard. A big part of the class is the weekly homeworks, which are very time-consuming but help to understand the material much better. Exams are take-home and similar to the homework. It's not hard to do well in the class but it will take up a lot of your time.
+Tags: Lots of homework
+
+---
+
+Quality: 2.0 | Difficulty: 5.0 | Course: CS1675 | Date: Feb 4th, 2025
+Dense material, most homework I've had for a class thus far. I sent multiple emails to him over the semester and never received a response. The lectures were overly long and extremely disorganized. He gave us "optional" textbook readings that he later said had been necessary to do the homework. Nice guy but really a poor teacher.
+Tags: Lots of homework, Lecture heavy
+
+---
+
+Quality: 2.0 | Difficulty: 5.0 | Course: CS1675 | Date: Jan 29th, 2025
+He doesn't know his own slides, stumbles around blindly in lecture. I have no idea what's going on half the time.
+Tags: Get ready to read, Lecture heavy
+
+---
+
+Quality: 3.0 | Difficulty: 1.0 | Course: CMPINF0010 | Date: Dec 22nd, 2024
+He's fine, the class just sucks. His lectures were fine but boring and honestly not necessary. The assignments can easily be done without attending any lectures. You really only need to go for TopHat questions. He seems like a nice guy, but this class just felt like a waste of time.
+Tags: Group projects
+
+---
+
+Quality: 2.0 | Difficulty: 1.0 | Course: CMPINF0010 | Date: Dec 18th, 2024
+Reiterating over the same concept that can be learned in a single slide for over an hour is not enjoyable.
+Tags: Helpful
+
+---
+
+Quality: 3.0 | Difficulty: 2.0 | Course: CMPINF0010 | Date: Dec 13th, 2024
+Pretty easy class overall so it didn't matter how his lectures really were, but he went over them fine — no complaints. A pretty down to earth guy who seemed approachable and knew what he was doing most of the time. He honestly just seems like a casual guy — he'd probably be fun to have for an actual CS course rather than CMPINF0010.
+Tags: Helpful
+
+---
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CS0010 | Date: Dec 11th, 2024
+Showed enthusiasm while teaching, was very understanding, leveled with students, and created a relaxed environment that was very laid back.
+Tags: Extra credit, Group projects, Lecture heavy
+
+---
+
+Quality: 2.0 | Difficulty: 4.0 | Course: CS1675 | Date: Aug 16th, 2024
+Horrible lecturer. I took this class when he took over for the previous professor and he didn't know the notes at all. It was very hard to follow — expect to study and learn on your own for a LOT of it.
+Tags: Get ready to read, Lots of homework, Accessible outside class
+
+---
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CS1675 | Date: May 2nd, 2024
+Expect to spend about 4 hours every week on homework. You'll have to self-teach a few R things, but nothing feels like busywork. There's lots of math but mostly conceptual as opposed to actual calculations; exams are also mostly conceptual. The material is very interesting but unfortunately a bit dry, but as an intro course to ML it's great!
+Tags: Lots of homework
+
+---
+
+Quality: 5.0 | Difficulty: 4.0 | Course: CS1675 | Date: Apr 28th, 2024
+Great professor, class was just a ton of work. 9 homeworks that could take upwards of 6 hours, midterm project, final project, and final exam.
+Tags: Lots of homework
+
+---
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CS0007 | Date: Feb 19th, 2024
+Took him for my CS requirement and he was great. I did bad on the midterm but he helped me get over 100% on my final. Amazing prof!
+Tags: Clear grading criteria, Lecture heavyl

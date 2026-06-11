@@ -1,0 +1,66 @@
+Professor: Sohel Sarwar
+Department: Computer Science
+University: University of Pittsburgh
+Source: Rate My Professors
+URL: https://www.ratemyprofessors.com/professor/2450152
+Overall Rating: 2.8/5 | Would Take Again: 50% | Difficulty: 2.3/5 | Total Ratings: 18
+
+---
+
+Quality: 1.0 | Difficulty: 5.0 | Course: CS1530 | Date: Feb 10th, 2026
+One of the most disorganized people I have ever met in my entire life. Extremely hostile toward students. Being in his class is like trying to absorb all of the information in the universe and then being expected to retain everything the first time you are told, since he is committed to not posting any instructions on Canvas.
+Tags: Helpful
+
+---
+
+Quality: 2.0 | Difficulty: 3.0 | Course: CS1530 | Date: Feb 10th, 2026
+Horrifically disorganized. Class switches between remote and in-person with 1-3 hours notice. Assignments are stated verbally with no corresponding written instructions or Canvas assignment — you must take notes on what you're expected to submit. Deadlines are unclear. The work isn't hard and you have project freedom, but his poor planning is stressful.
+Tags: Helpful
+
+---
+
+Quality: 4.0 | Difficulty: 2.0 | Course: CS1530 | Date: May 7th, 2025
+The course does what it sets out to do — you'll learn to be a software engineer from project experience. The only negative from me is how disorganized rubrics and homework are.
+Tags: Group projects
+
+---
+
+Quality: 5.0 | Difficulty: 3.0 | Course: CS1530 | Date: May 23rd, 2024
+He is a great professor if you want to have an introduction to software engineering. He is also kind enough to move due dates if the assignments are overwhelming or long. Overall I recommend!
+Tags: Extra credit, Group projects, Respected
+
+---
+
+Quality: 4.0 | Difficulty: 2.0 | Course: CS1530 | Date: May 8th, 2024
+Sarwar is a caring professor. He allows you to retake or resubmit pretty much any assignment. The material is very useful — it is about high level software design principles and industry practices. I actively talked about the concepts I learned in this class in SWE internship interviews and impressed interviewers with it. Take this class.
+Tags: Group projects, Caring, Lecture heavy
+
+---
+
+Quality: 5.0 | Difficulty: 2.0 | Course: CS1530 | Date: Apr 22nd, 2024
+Awesome guy! Very caring! Take him if you want to learn from someone that knows the inside outs of software engineering.
+Tags: Group projects, Amazing lectures, Caring
+
+---
+
+Quality: 4.0 | Difficulty: 2.0 | Course: CS1530 | Date: May 2nd, 2023
+I think the other ratings are a bit harsh. If you're looking for a fairly easy class with decently important info for the industry, he's your guy. The only tough assignment is the group project but really you don't even need to put much effort into it and you'll get a 100. The busy work is annoying but easy.
+Tags: Group projects, Lots of homework, Lecture heavy
+
+---
+
+Quality: 3.0 | Difficulty: 1.0 | Course: CS1530 | Date: Dec 28th, 2022
+Besides the fact that the midterms were not graded until after the final, Professor Sarwar did an okay job. The material is valuable, but you get a lot of it at a rapid pace. Exams and quizzes were open book, and as long as you know which lecture to look up you'll be fine.
+Tags: Group projects
+
+---
+
+Quality: 2.0 | Difficulty: 1.0 | Course: CS1530 | Date: Dec 15th, 2022
+Absolutely unacceptable and dishonest grading times. We did not get our midterm grades until after the final despite the fact that we did them over two months prior. Promised to have the midterms graded before the final, pushed back the final by two days after making this promise, and then STILL did not have the midterms graded before the final.
+Tags: Helpful
+
+---
+
+Quality: 3.0 | Difficulty: 2.0 | Course: CS1530 | Date: Nov 29th, 2022
+I honestly think Prof. Sarwar gets a bit of a bad rap. He does a decent job of conveying industry standard practices and all of his assignments are pretty reasonable to complete. I just think that his class is very unorganized which got very annoying for determining when homework assignments were due.
+Tags: Participation matters, Group projects, Lots of homework
